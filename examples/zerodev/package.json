@@ -9,7 +9,7 @@
     "@zerodev/sdk": "^5.1.7",
     "permissionless": "^0.0.34",
     "tslib": "^2.6.2",
-    "viem": "^2.7.16"
+    "viem": "^2.11.0"
   },
   "scripts": {
     "dev": "node src/mint.js"
