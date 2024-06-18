@@ -51,20 +51,20 @@ abitype@1.0.0:
   resolved "https://registry.yarnpkg.com/abitype/-/abitype-1.0.0.tgz#237176dace81d90d018bebf3a45cb42f2a2d9e97"
   integrity sha512-NMeMah//6bJ56H5XRj8QCV4AwuW6hB6zqz2LnhhLdcWVQOsXki6/Pn3APeqxCma62nXIcmZWdu1DlHWS74umVQ==
 
-isows@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/isows/-/isows-1.0.3.tgz#93c1cf0575daf56e7120bab5c8c448b0809d0d74"
-  integrity sha512-2cKei4vlmg2cxEjm3wVSqn8pcoRF/LX/wpifuuNquFO4SQmPwarClT+SUCA2lt+l581tTeZIPIZuIDo2jWN1fg==
+isows@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/isows/-/isows-1.0.4.tgz#810cd0d90cc4995c26395d2aa4cfa4037ebdf061"
+  integrity sha512-hEzjY+x9u9hPmBom9IIAqdJCwNLax+xrPb51vEPpERoFlIxgmZcHzsT5jKG06nvInKOBGvReAVz80Umed5CczQ==
 
 permissionless@^0.0.36:
   version "0.0.36"
   resolved "https://registry.yarnpkg.com/permissionless/-/permissionless-0.0.36.tgz#f8faf65741ce4bc8f30a6c24d91137baa01b8c68"
   integrity sha512-1/+N3zzFn2vjKZm6aol3eXsFO34d68/GAhKypq2iucFEPrgM5sdq3I5sOK+RrKuGIy8/Bix+IoHhtg0XCDPMOA==
 
-viem@^2.7.13:
-  version "2.7.13"
-  resolved "https://registry.yarnpkg.com/viem/-/viem-2.7.13.tgz#bf3f8e973f532f9f9c86c97b645ac8add740e1bd"
-  integrity sha512-NGWLEocRp2UTqGidzI9bnL9u6WHlG2ik7IwqXNe6/QC2dL6jE3Z1mUnUUVcSx71h81nx74EflD9ahtleK3RQdA==
+viem@^2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/viem/-/viem-2.15.1.tgz#05a9ef5fd74661bd77d865c334477a900e59b436"
+  integrity sha512-Vrveen3vDOJyPf8Q8TDyWePG2pTdK6IpSi4P6qlvAP+rXkAeqRvwYBy9AmGm+BeYpCETAyTT0SrCP6458XSt+w==
   dependencies:
     "@adraffy/ens-normalize" "1.10.0"
     "@noble/curves" "1.2.0"
@@ -72,10 +72,10 @@ viem@^2.7.13:
     "@scure/bip32" "1.3.2"
     "@scure/bip39" "1.2.1"
     abitype "1.0.0"
-    isows "1.0.3"
-    ws "8.13.0"
+    isows "1.0.4"
+    ws "8.17.1"
 
-ws@8.13.0:
-  version "8.13.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.13.0.tgz#9a9fb92f93cf41512a0735c8f4dd09b8a1211cd0"
-  integrity sha512-x9vcZYTrFPC7aSIbj7sRCYo7L/Xb8Iy+pW0ng0wt2vCJv7M9HOMy0UoN3rr+IFC7hb7vXoqS+P9ktyLLLhO+LA==
+ws@8.17.1:
+  version "8.17.1"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.17.1.tgz#9293da530bb548febc95371d90f9c878727d919b"
+  integrity sha512-6XQFvXTkbfUOZOKKILFG1PDK2NDQs4azKQl26T0YS5CxqWLgXajbPZ+h4gZekJyRqFU8pvnbAbbs/3TgRPy+GQ==
